@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيوني عليك والسما تشهد
+> روحي معاك في كل موعد
+> بين النجوم أدور عليك
+> طول ليلي أنا أفكر فيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
