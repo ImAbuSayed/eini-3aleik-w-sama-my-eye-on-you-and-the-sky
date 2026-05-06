@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eini-3aleik-w-sama-my-eye-on-you-and-the-sky/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Eini 3aleik W Sama – My Eye on You and the Sky](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
